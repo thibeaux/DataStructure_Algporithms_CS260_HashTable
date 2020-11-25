@@ -1,0 +1,2 @@
+# DataStructure_Algporithms_CS260_HashTable
+In this lab in CS260 we created a hash table to hold all of the auction data to our program. We use chaining in order to prevent collisions in the hash table. We do this by using a linked list in order to create the buckets and a vector to hold the entries.  This program has functions to add entries to the hash table, remove entries from the table, print all entries from the hash table, and we can search for an entry as well. 
